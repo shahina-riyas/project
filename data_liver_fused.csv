@@ -1,0 +1,250 @@
+,Gender,AgeGroup,Total_BilirubinGroup,Alkaline_PhosphotaseGroup,Alamine_AminotransferaseGroup,Aspartate_AminotransferaseGroup,Total_ProtiensGroup,AlbuminGroup,Albumin_and_Globulin_RatioGroup
+0,Female,older adults,normal,high,normal,normal,normal,low,low
+1,Male,older adults,high,veryhigh,high,high,normal,low,low
+2,Male,older adults,high,high,high,high,normal,low,low
+3,Male,older adults,normal,high,normal,normal,normal,normal,low
+4,Male,older adults,high,high,normal,high,normal,low,low
+5,Male,middle-aged adults,high,high,normal,normal,normal,normal,low
+6,Female,young adults,normal,high,normal,normal,normal,normal,low
+8,Male,teens,normal,high,normal,normal,normal,normal,low
+9,Male,middle-aged adults,normal,high,high,high,normal,normal,low
+10,Male,older adults,normal,high,high,high,low,low,low
+12,Male,older adults,normal,high,high,high,normal,normal,low
+13,Female,older adults,normal,high,normal,normal,normal,normal,low
+14,Male,older adults,normal,normal,high,high,low,low,low
+15,Male,young adults,normal,high,high,high,low,low,low
+16,Male,middle-aged adults,high,high,veryhigh,veryhigh,normal,normal,low
+17,Male,young adults,high,high,normal,normal,normal,normal,low
+18,Female,middle-aged adults,normal,high,veryhigh,veryhigh,normal,low,low
+20,Male,middle-aged adults,high,veryhigh,normal,normal,normal,low,low
+21,Male,middle-aged adults,high,high,normal,high,normal,low,low
+22,Male,older adults,high,veryhigh,veryhigh,high,normal,low,low
+23,Male,middle-aged adults,high,high,normal,high,low,low,low
+25,Male,young adults,high,high,veryhigh,veryhigh,low,low,low
+27,Male,young adults,high,high,veryhigh,veryhigh,normal,normal,low
+28,Male,young adults,normal,normal,normal,normal,low,low,low
+30,Male,older adults,high,high,high,veryhigh,low,low,low
+31,Male,middle-aged adults,normal,high,normal,high,low,low,low
+32,Male,older adults,normal,high,normal,normal,low,low,low
+33,Female,middle-aged adults,high,high,high,high,low,low,low
+35,Male,young adults,high,high,veryhigh,high,normal,low,low
+36,Female,teens,normal,normal,normal,high,normal,normal,low
+38,Male,middle-aged adults,high,high,high,high,low,low,low
+39,Male,middle-aged adults,high,high,veryhigh,high,normal,low,low
+41,Male,older adults,normal,high,high,veryhigh,low,low,low
+42,Male,middle-aged adults,high,veryhigh,normal,high,normal,low,low
+43,Male,middle-aged adults,high,high,veryhigh,veryhigh,normal,low,low
+45,Male,young adults,high,high,high,veryhigh,normal,low,low
+47,Male,middle-aged adults,normal,high,veryhigh,veryhigh,low,low,low
+48,Female,young adults,normal,high,high,normal,normal,low,low
+49,Male,middle-aged adults,high,high,high,veryhigh,normal,low,low
+50,Female,middle-aged adults,normal,high,normal,normal,low,low,low
+52,Male,middle-aged adults,high,high,high,veryhigh,normal,normal,low
+53,Male,middle-aged adults,normal,high,high,veryhigh,normal,normal,low
+56,Male,young adults,normal,high,normal,normal,normal,normal,low
+57,Female,middle-aged adults,normal,high,normal,high,low,low,low
+58,Male,middle-aged adults,normal,high,high,normal,low,low,low
+59,Male,older adults,normal,normal,normal,normal,low,low,low
+60,Female,young adults,normal,high,normal,normal,normal,low,low
+63,Male,older adults,normal,high,normal,high,low,low,low
+65,Male,older adults,high,high,high,high,low,low,low
+66,Male,middle-aged adults,high,high,high,high,normal,normal,low
+69,Male,older adults,normal,high,normal,normal,normal,low,low
+70,Female,teens,normal,high,veryhigh,veryhigh,low,low,low
+71,Female,older adults,normal,high,normal,normal,low,low,low
+73,Male,middle-aged adults,normal,high,normal,normal,normal,normal,low
+75,Female,young adults,normal,high,high,high,low,low,low
+76,Male,young adults,normal,veryhigh,veryhigh,normal,low,low,low
+77,Female,older adults,normal,veryhigh,high,veryhigh,low,low,low
+78,Male,older adults,high,normal,normal,normal,normal,normal,low
+79,Female,older adults,high,veryhigh,high,high,low,low,low
+80,Female,older adults,high,veryhigh,high,veryhigh,low,low,low
+82,Male,middle-aged adults,normal,high,normal,normal,low,low,low
+84,Male,young adults,normal,high,high,normal,normal,normal,low
+85,Male,teens,high,high,high,high,normal,normal,low
+86,Male,teens,normal,high,normal,high,normal,normal,low
+87,Male,older adults,normal,high,normal,high,normal,low,low
+88,Male,teens,normal,veryhigh,normal,high,normal,low,low
+89,Male,older adults,high,high,veryhigh,veryhigh,normal,low,low
+97,Male,middle-aged adults,high,high,veryhigh,veryhigh,low,low,low
+98,Male,teens,normal,high,high,veryhigh,low,low,low
+99,Male,teens,normal,high,veryhigh,veryhigh,normal,normal,low
+100,Male,young adults,normal,high,normal,normal,low,low,low
+103,Female,middle-aged adults,normal,high,normal,normal,normal,low,low
+105,Male,middle-aged adults,high,normal,normal,high,low,low,low
+107,Male,middle-aged adults,normal,high,normal,high,normal,low,low
+110,Female,young adults,normal,high,normal,normal,low,low,low
+111,Male,middle-aged adults,high,high,normal,veryhigh,low,low,low
+112,Male,young adults,normal,high,high,high,normal,low,low
+114,Male,middle-aged adults,high,veryhigh,veryhigh,veryhigh,low,low,low
+115,Male,middle-aged adults,high,veryhigh,high,high,low,low,low
+116,Male,middle-aged adults,normal,veryhigh,high,veryhigh,low,low,low
+121,Male,young adults,high,high,veryhigh,veryhigh,normal,low,low
+122,Male,older adults,high,high,high,high,low,normal,low
+125,Male,older adults,high,high,high,normal,low,low,low
+126,Male,middle-aged adults,high,veryhigh,veryhigh,high,normal,low,low
+128,Female,older adults,high,veryhigh,high,high,normal,normal,low
+130,Male,middle-aged adults,high,veryhigh,high,high,normal,low,low
+132,Female,teens,normal,high,normal,normal,normal,normal,low
+133,Male,middle-aged adults,normal,high,normal,normal,normal,low,low
+134,Male,teens,high,high,normal,high,normal,normal,low
+135,Male,older adults,high,veryhigh,veryhigh,veryhigh,normal,low,low
+136,Female,middle-aged adults,high,high,high,high,normal,low,low
+141,Female,older adults,high,high,normal,normal,normal,low,low
+142,Male,young adults,high,high,high,veryhigh,low,low,low
+146,Female,older adults,high,high,normal,high,low,low,low
+150,Male,older adults,normal,high,normal,high,normal,normal,low
+151,Male,middle-aged adults,high,high,normal,normal,low,low,low
+152,Female,middle-aged adults,normal,high,normal,high,normal,low,low
+160,Male,older adults,high,veryhigh,veryhigh,veryhigh,low,low,low
+161,Male,older adults,high,veryhigh,high,veryhigh,normal,low,low
+162,Male,older adults,high,veryhigh,high,high,low,low,low
+166,Male,middle-aged adults,high,high,high,high,normal,low,low
+169,Male,older adults,high,veryhigh,normal,normal,normal,low,low
+171,Female,middle-aged adults,high,high,veryhigh,veryhigh,normal,low,low
+172,Male,middle-aged adults,high,veryhigh,normal,high,low,low,low
+173,Male,young adults,normal,high,high,high,normal,normal,low
+176,Male,middle-aged adults,normal,high,veryhigh,high,low,low,low
+178,Male,older adults,high,veryhigh,high,normal,low,low,low
+179,Male,older adults,high,high,normal,normal,low,low,low
+181,Male,older adults,high,high,normal,high,low,low,low
+187,Male,older adults,high,high,veryhigh,veryhigh,low,low,low
+190,Male,older adults,high,high,veryhigh,veryhigh,normal,normal,low
+192,Male,older adults,high,high,high,high,normal,normal,low
+193,Male,middle-aged adults,high,high,normal,normal,normal,low,low
+194,Male,middle-aged adults,high,high,high,normal,low,low,low
+195,Male,older adults,high,veryhigh,normal,high,low,low,low
+197,Female,young adults,normal,normal,normal,normal,low,low,low
+199,Female,adolescents,high,veryhigh,veryhigh,veryhigh,normal,low,low
+200,Male,middle-aged adults,normal,high,high,high,low,low,low
+202,Female,middle-aged adults,normal,normal,normal,normal,normal,low,low
+203,Male,young adults,normal,normal,normal,normal,normal,normal,low
+204,Male,young adults,normal,normal,normal,normal,normal,low,low
+208,Female,older adults,normal,high,high,high,normal,low,low
+209,Female,middle-aged adults,normal,high,normal,normal,normal,normal,veryhigh
+213,Female,adolescents,normal,high,normal,high,normal,normal,low
+214,Male,middle-aged adults,high,high,normal,high,normal,normal,low
+215,Male,older adults,normal,normal,normal,veryhigh,low,low,low
+216,Male,middle-aged adults,normal,normal,normal,normal,normal,low,low
+218,Male,children,normal,high,high,normal,low,low,low
+219,Male,middle-aged adults,normal,normal,high,high,normal,normal,low
+220,Male,middle-aged adults,normal,normal,normal,high,low,low,low
+221,Male,middle-aged adults,normal,high,high,normal,normal,normal,low
+225,Male,young adults,normal,normal,high,high,normal,normal,low
+226,Male,young adults,high,high,high,high,normal,normal,low
+231,Male,older adults,normal,high,high,veryhigh,high,normal,low
+233,Male,young adults,high,veryhigh,high,high,normal,low,low
+234,Female,middle-aged adults,normal,high,normal,normal,normal,normal,low
+238,Female,young adults,normal,high,high,high,normal,normal,low
+239,Male,middle-aged adults,normal,high,high,high,normal,low,low
+241,Male,middle-aged adults,normal,high,normal,high,normal,low,veryhigh
+243,Female,young adults,normal,high,normal,normal,high,high,low
+249,Male,young adults,normal,high,normal,normal,normal,low,low
+250,Male,young adults,high,high,high,normal,normal,low,low
+251,Male,young adults,normal,veryhigh,high,high,low,low,low
+253,Female,young adults,normal,high,normal,normal,low,low,veryhigh
+254,Female,middle-aged adults,normal,high,high,normal,normal,normal,low
+256,Male,middle-aged adults,normal,veryhigh,normal,normal,normal,normal,low
+258,Male,middle-aged adults,normal,high,normal,high,normal,normal,low
+259,Male,middle-aged adults,high,high,high,veryhigh,low,low,low
+261,Male,young adults,high,veryhigh,veryhigh,veryhigh,normal,normal,low
+262,Male,teens,normal,high,high,high,normal,normal,low
+265,Male,children,normal,high,normal,high,normal,normal,low
+267,Female,middle-aged adults,normal,normal,normal,normal,normal,normal,low
+270,Male,middle-aged adults,normal,high,high,high,high,normal,low
+271,Male,children,normal,high,veryhigh,veryhigh,normal,low,low
+273,Male,young adults,normal,high,normal,normal,high,normal,low
+280,Male,older adults,normal,normal,high,high,normal,low,low
+283,Male,teens,high,high,normal,normal,normal,low,low
+285,Male,teens,high,veryhigh,normal,normal,normal,normal,low
+286,Female,young adults,normal,high,normal,normal,high,normal,low
+288,Female,middle-aged adults,normal,high,normal,high,normal,normal,low
+290,Female,middle-aged adults,normal,high,high,high,high,normal,low
+302,Female,middle-aged adults,high,high,normal,normal,normal,normal,low
+303,Male,middle-aged adults,normal,high,normal,normal,high,normal,low
+306,Male,middle-aged adults,high,veryhigh,high,veryhigh,normal,low,low
+307,Male,young adults,normal,high,normal,high,low,low,low
+309,Female,middle-aged adults,normal,veryhigh,veryhigh,veryhigh,normal,normal,low
+311,Female,middle-aged adults,high,veryhigh,high,high,normal,normal,low
+312,Male,young adults,high,normal,normal,high,high,normal,veryhigh
+314,Male,young adults,high,high,normal,high,normal,normal,low
+320,Female,young adults,normal,normal,normal,normal,low,normal,low
+321,Female,young adults,normal,high,normal,high,low,low,low
+323,Male,adolescents,normal,high,high,high,normal,normal,low
+326,Female,middle-aged adults,normal,high,veryhigh,high,normal,normal,low
+330,Male,young adults,high,high,high,high,normal,low,low
+331,Male,young adults,high,high,high,high,low,low,low
+335,Female,teens,normal,high,normal,normal,high,normal,low
+340,Male,older adults,normal,high,high,normal,normal,low,low
+341,Female,middle-aged adults,normal,veryhigh,high,veryhigh,normal,low,low
+346,Male,middle-aged adults,normal,normal,normal,normal,normal,normal,low
+347,Male,middle-aged adults,normal,high,veryhigh,veryhigh,normal,normal,low
+348,Male,older adults,high,high,normal,normal,normal,low,low
+350,Male,middle-aged adults,high,normal,high,high,low,low,low
+352,Female,young adults,normal,normal,normal,normal,normal,normal,low
+353,Female,middle-aged adults,high,veryhigh,veryhigh,veryhigh,normal,normal,low
+355,Male,teens,high,high,normal,normal,normal,normal,low
+359,Female,older adults,normal,normal,high,high,high,normal,low
+360,Male,young adults,normal,high,high,normal,normal,low,low
+363,Female,middle-aged adults,normal,high,normal,normal,high,normal,low
+364,Male,young adults,normal,high,normal,high,normal,normal,low
+369,Female,older adults,normal,normal,normal,normal,normal,normal,low
+370,Female,middle-aged adults,high,veryhigh,normal,high,normal,normal,low
+372,Male,middle-aged adults,normal,high,normal,normal,high,high,low
+383,Female,older adults,high,high,normal,normal,low,low,low
+386,Male,middle-aged adults,high,normal,normal,normal,normal,normal,low
+389,Male,older adults,normal,normal,normal,high,normal,low,low
+393,Male,middle-aged adults,high,veryhigh,veryhigh,high,normal,normal,low
+394,Female,middle-aged adults,normal,high,high,high,low,low,low
+399,Male,young adults,normal,high,veryhigh,veryhigh,normal,low,low
+401,Male,middle-aged adults,high,normal,high,veryhigh,normal,low,low
+402,Female,middle-aged adults,normal,high,veryhigh,veryhigh,normal,normal,low
+407,Male,adolescents,normal,veryhigh,veryhigh,veryhigh,normal,normal,low
+409,Male,middle-aged adults,high,veryhigh,veryhigh,veryhigh,normal,low,low
+410,Male,teens,high,high,veryhigh,veryhigh,low,low,low
+411,Female,young adults,high,veryhigh,normal,high,normal,low,low
+416,Male,older adults,normal,veryhigh,high,veryhigh,normal,low,low
+417,Male,adolescents,normal,veryhigh,normal,normal,normal,normal,low
+419,Female,middle-aged adults,high,veryhigh,high,high,normal,low,low
+425,Male,older adults,normal,normal,high,veryhigh,low,low,low
+434,Female,young adults,normal,high,normal,high,normal,normal,low
+437,Male,young adults,high,high,normal,high,low,low,low
+441,Female,middle-aged adults,high,high,normal,high,low,low,low
+442,Female,middle-aged adults,high,high,high,veryhigh,low,low,low
+452,Male,older adults,normal,veryhigh,normal,high,normal,normal,low
+453,Male,middle-aged adults,normal,high,high,normal,normal,low,low
+456,Male,young adults,normal,high,normal,high,normal,low,low
+458,Male,young adults,high,normal,high,normal,low,low,low
+459,Male,older adults,normal,veryhigh,normal,high,low,low,low
+460,Female,young adults,high,high,veryhigh,high,low,low,low
+461,Female,young adults,normal,high,high,normal,normal,normal,low
+463,Male,young adults,normal,normal,normal,high,normal,normal,low
+467,Female,young adults,normal,normal,normal,veryhigh,normal,low,low
+474,Male,young adults,high,high,normal,veryhigh,normal,low,low
+475,Male,middle-aged adults,high,high,veryhigh,high,normal,normal,low
+480,Male,adolescents,normal,high,normal,high,normal,normal,low
+482,Male,middle-aged adults,normal,normal,high,veryhigh,normal,normal,low
+484,Male,older adults,high,normal,normal,high,low,low,low
+485,Female,young adults,high,veryhigh,veryhigh,veryhigh,normal,low,low
+490,Female,middle-aged adults,normal,high,high,high,normal,normal,low
+491,Male,young adults,normal,high,high,veryhigh,normal,normal,low
+492,Female,young adults,normal,veryhigh,veryhigh,veryhigh,normal,low,low
+494,Male,young adults,normal,high,veryhigh,veryhigh,normal,normal,low
+498,Male,older adults,high,high,normal,normal,normal,normal,low
+502,Male,middle-aged adults,normal,normal,normal,normal,low,low,low
+507,Male,middle-aged adults,normal,high,veryhigh,high,normal,normal,low
+510,Female,middle-aged adults,normal,high,normal,high,high,normal,low
+519,Male,young adults,high,normal,veryhigh,veryhigh,high,low,low
+520,Male,older adults,high,high,high,veryhigh,high,normal,low
+533,Female,middle-aged adults,high,high,veryhigh,veryhigh,low,low,low
+538,Male,middle-aged adults,high,normal,high,high,normal,low,low
+539,Female,older adults,normal,high,normal,high,normal,normal,low
+547,Female,middle-aged adults,high,high,high,veryhigh,normal,low,low
+549,Female,middle-aged adults,high,veryhigh,high,veryhigh,normal,normal,low
+555,Male,middle-aged adults,normal,high,veryhigh,high,normal,low,low
+565,Male,middle-aged adults,high,normal,normal,veryhigh,normal,low,low
+568,Female,young adults,high,high,high,veryhigh,normal,normal,low
+569,Male,teens,high,high,veryhigh,veryhigh,normal,normal,low
+570,Male,teens,high,high,veryhigh,high,low,low,low
+571,Male,older adults,normal,high,high,veryhigh,normal,low,low
+572,Male,young adults,high,normal,high,veryhigh,low,normal,low

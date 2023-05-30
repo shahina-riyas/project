@@ -1,0 +1,288 @@
+,sex,cp,fbs,restecg,exang,slope,ca,thal,target,AgeGroup,TrestbpsGroup,CholGroup,ThalachGroup,OldpeakGroup
+0,1,3,1,0,0,0,0,1,1,older adults,hypertension,borderline,hyper,3
+1,1,2,0,1,0,0,0,2,1,middle-aged adults,hypertension,high,hyper,4
+2,0,1,0,0,0,2,0,2,1,middle-aged adults,hypertension,borderline,hyper,2
+3,1,1,0,1,0,2,0,2,1,older adults,hypertension,borderline,hyper,1
+4,0,0,0,1,1,2,0,2,1,older adults,hypertension,high,hyper,1
+5,1,0,0,1,0,1,0,1,1,older adults,hypertension,underweight,infant normal,1
+6,0,1,0,0,0,1,0,2,1,older adults,hypertension,high,hyper,2
+7,1,1,0,1,0,2,0,3,1,middle-aged adults,hypertension,high,hyper,0
+8,1,2,1,1,0,2,0,3,1,middle-aged adults,hypertension,underweight,hyper,1
+9,1,2,0,1,0,2,0,2,1,older adults,hypertension,underweight,hyper,2
+10,1,0,0,1,0,2,0,2,1,middle-aged adults,hypertension,high,hyper,2
+11,0,2,0,1,0,2,0,2,1,middle-aged adults,hypertension,high,infant normal,1
+12,1,1,0,1,0,2,0,2,1,middle-aged adults,hypertension,high,hyper,1
+13,1,3,0,0,1,1,0,2,1,older adults,hypertension,borderline,infant normal,2
+14,0,3,1,0,0,2,0,2,1,older adults,hypertension,high,hyper,1
+15,0,2,0,1,0,1,0,2,1,middle-aged adults,hypertension,borderline,hyper,2
+16,0,2,0,1,0,2,0,2,1,older adults,hypertension,high,hyper,0
+17,0,3,0,1,0,0,0,2,1,older adults,hypertension,borderline,infant normal,3
+19,0,3,0,1,0,2,2,2,1,older adults,hypertension,high,hyper,2
+20,1,0,0,1,0,1,0,3,1,older adults,hypertension,borderline,hyper,1
+21,1,2,0,1,1,2,0,2,1,middle-aged adults,hypertension,borderline,hyper,1
+22,1,0,0,1,0,2,0,2,1,middle-aged adults,hypertension,borderline,hyper,0
+23,1,2,1,1,1,1,0,2,1,older adults,hypertension,high,infant normal,1
+24,1,3,0,1,1,2,0,3,1,middle-aged adults,hypertension,underweight,hyper,2
+25,0,1,0,1,0,2,2,2,1,older adults,hypertension,high,hyper,1
+26,1,2,1,1,0,2,0,2,1,older adults,hypertension,borderline,hyper,2
+27,1,2,0,1,0,2,0,2,1,middle-aged adults,hypertension,underweight,infant normal,1
+28,0,2,1,0,0,2,1,2,1,older adults,hypertension,high,hyper,1
+29,1,2,1,0,0,0,0,2,1,middle-aged adults,hypertension,underweight,hyper,2
+30,0,1,0,1,0,2,1,2,1,middle-aged adults,hypertension,underweight,hyper,0
+31,1,0,0,1,0,2,0,3,1,older adults,hypertension,underweight,infant normal,1
+32,1,1,0,0,0,2,0,2,1,middle-aged adults,hypertension,borderline,hyper,0
+33,1,2,0,0,0,0,1,2,1,middle-aged adults,hypertension,high,hyper,1
+34,1,3,0,0,1,2,1,2,1,middle-aged adults,hypertension,borderline,infant normal,2
+35,0,2,0,0,1,0,0,2,1,middle-aged adults,hypertension,underweight,hyper,2
+36,0,2,1,1,0,2,0,2,1,middle-aged adults,hypertension,high,hyper,0
+37,1,2,0,0,0,2,0,3,1,middle-aged adults,hypertension,borderline,hyper,2
+38,0,2,0,1,0,2,0,2,1,older adults,hypertension,high,infant normal,1
+39,0,2,0,0,0,2,0,2,1,older adults,hypertension,high,hyper,1
+40,0,2,0,0,0,2,1,2,1,middle-aged adults,hypertension,high,infant normal,2
+41,1,1,0,0,0,1,0,2,1,middle-aged adults,hypertension,high,hyper,1
+42,1,0,0,0,1,1,0,2,1,middle-aged adults,hypertension,borderline,infant normal,3
+43,0,0,0,0,0,1,0,2,1,middle-aged adults,hypertension,high,infant normal,1
+44,1,2,0,0,0,2,0,2,1,middle-aged adults,hypertension,high,hyper,0
+46,1,2,0,0,0,2,0,2,1,middle-aged adults,hypertension,borderline,hyper,0
+48,0,2,0,0,0,2,0,0,1,middle-aged adults,hypertension,borderline,infant normal,0
+49,0,0,0,0,0,2,0,2,1,middle-aged adults,hypertension,borderline,hyper,0
+50,0,2,0,0,0,2,0,2,1,middle-aged adults,hypertension,high,infant normal,1
+51,1,0,0,0,0,1,0,2,1,older adults,hypertension,high,hyper,1
+52,1,2,0,1,0,1,3,3,1,older adults,hypertension,borderline,infant normal,2
+53,0,2,0,1,0,1,0,2,1,middle-aged adults,hypertension,underweight,hyper,1
+54,0,2,0,0,0,2,0,2,1,older adults,hypertension,high,hyper,0
+55,1,1,0,1,0,2,1,2,1,middle-aged adults,hypertension,borderline,hyper,1
+56,1,0,0,0,0,2,0,2,1,middle-aged adults,hypertension,borderline,hyper,0
+57,1,0,0,0,0,2,0,2,1,middle-aged adults,hypertension,high,hyper,0
+58,1,3,0,0,0,2,0,2,1,young adults,hypertension,underweight,hyper,0
+59,0,0,0,0,0,2,1,2,1,older adults,hypertension,high,hyper,0
+60,0,2,1,0,0,2,1,2,1,older adults,hypertension,high,infant normal,0
+62,1,3,0,0,0,1,0,1,1,middle-aged adults,hypertension,underweight,hyper,0
+63,1,1,0,1,0,1,0,1,1,middle-aged adults,hypertension,borderline,infant normal,0
+64,1,2,1,0,0,2,0,2,1,older adults,hypertension,borderline,hyper,0
+65,0,0,0,1,0,2,0,2,1,young adults,hypertension,underweight,hyper,2
+66,1,2,0,1,1,1,0,2,1,middle-aged adults,hypertension,borderline,infant normal,2
+67,0,1,0,0,0,1,0,2,1,middle-aged adults,hypertension,borderline,hyper,1
+68,1,1,0,1,0,2,0,2,1,middle-aged adults,hypertension,borderline,hyper,0
+69,0,0,0,1,0,2,0,2,1,older adults,hypertension,borderline,hyper,0
+70,1,2,0,0,0,1,0,3,1,middle-aged adults,hypertension,high,infant normal,1
+71,1,2,0,1,1,2,1,3,1,middle-aged adults,hypertension,borderline,hyper,0
+72,1,1,0,0,0,2,0,2,1,young adults,hypertension,borderline,hyper,0
+73,1,0,0,0,1,2,0,2,1,middle-aged adults,hypertension,high,hyper,0
+74,0,2,0,1,0,1,0,2,1,middle-aged adults,hypertension,borderline,hyper,1
+75,0,1,0,0,0,1,0,2,1,middle-aged adults,hypertension,high,hyper,2
+76,1,2,1,0,0,1,0,2,1,middle-aged adults,hypertension,high,hyper,3
+77,1,1,0,1,1,2,0,2,1,older adults,hypertension,borderline,hyper,0
+78,1,1,1,1,0,2,0,2,1,middle-aged adults,hypertension,borderline,hyper,0
+79,1,2,0,0,1,1,0,3,1,older adults,hypertension,high,hyper,1
+80,1,2,0,1,0,2,0,2,1,middle-aged adults,hypertension,high,hyper,0
+81,1,1,0,0,0,2,0,2,1,middle-aged adults,hypertension,high,hyper,0
+82,0,2,0,1,0,2,1,2,1,older adults,hypertension,high,hyper,0
+83,1,3,1,1,0,1,0,3,1,middle-aged adults,hypertension,high,hyper,2
+85,0,2,0,0,0,1,0,3,1,older adults,hypertension,high,hyper,2
+86,1,2,0,1,0,2,1,3,1,older adults,hypertension,high,hyper,1
+87,1,1,1,1,0,2,0,3,1,middle-aged adults,hypertension,underweight,hyper,0
+89,0,0,0,0,0,1,0,2,1,older adults,hypertension,high,infant normal,1
+90,1,2,1,1,0,2,2,2,1,middle-aged adults,hypertension,high,hyper,0
+91,1,0,0,1,1,2,0,3,1,older adults,hypertension,borderline,hyper,0
+92,1,2,0,1,0,2,4,2,1,middle-aged adults,hypertension,borderline,hyper,0
+93,0,1,1,0,1,2,1,2,1,middle-aged adults,hypertension,high,hyper,0
+94,0,1,0,1,0,1,0,2,1,middle-aged adults,hypertension,underweight,infant normal,0
+95,1,0,0,0,1,2,0,3,1,middle-aged adults,hypertension,borderline,infant normal,0
+96,0,0,0,0,0,1,0,2,1,older adults,hypertension,high,hyper,2
+97,1,0,1,1,0,2,3,3,1,middle-aged adults,hypertension,borderline,infant normal,1
+98,1,2,0,1,0,2,1,2,1,middle-aged adults,hypertension,high,hyper,2
+99,1,2,1,0,0,2,3,2,1,middle-aged adults,hypertension,high,hyper,0
+100,1,3,0,0,0,2,2,2,1,middle-aged adults,hypertension,high,hyper,1
+101,1,3,0,0,0,0,0,3,1,older adults,hypertension,high,infant normal,5
+102,0,1,0,1,0,2,2,2,1,older adults,hypertension,underweight,hyper,0
+103,1,2,1,1,0,0,0,3,1,middle-aged adults,hypertension,high,hyper,1
+104,1,2,0,1,0,2,0,2,1,middle-aged adults,hypertension,underweight,hyper,0
+105,0,2,0,0,0,1,0,2,1,older adults,hypertension,borderline,infant normal,2
+106,1,3,1,0,0,1,1,2,1,older adults,hypertension,borderline,infant normal,1
+107,0,0,0,0,1,1,0,2,1,middle-aged adults,hypertension,borderline,hyper,1
+108,0,1,0,1,0,2,0,2,1,middle-aged adults,hypertension,high,hyper,2
+109,0,0,0,0,0,2,0,2,1,middle-aged adults,hypertension,high,hyper,0
+110,0,0,0,1,1,2,0,2,1,older adults,hypertension,high,hyper,0
+111,1,2,1,1,0,2,1,3,1,older adults,hypertension,underweight,hyper,1
+112,0,2,0,1,0,2,0,3,1,older adults,hypertension,high,infant normal,1
+113,1,0,0,1,0,2,0,3,1,middle-aged adults,hypertension,borderline,hyper,0
+114,1,1,0,1,0,2,0,2,1,middle-aged adults,hypertension,high,hyper,0
+115,0,2,0,1,0,2,0,2,1,middle-aged adults,hypertension,borderline,hyper,0
+116,1,2,0,0,0,1,0,2,1,middle-aged adults,hypertension,borderline,hyper,2
+117,1,3,0,0,0,1,0,3,1,older adults,hypertension,underweight,hyper,2
+118,0,1,0,1,0,2,0,2,1,middle-aged adults,hypertension,borderline,hyper,0
+119,0,0,0,0,1,1,0,2,1,middle-aged adults,hypertension,high,hyper,0
+120,0,0,0,1,0,1,2,2,1,older adults,hypertension,high,infant normal,2
+121,1,0,0,0,0,2,0,2,1,older adults,hypertension,high,hyper,0
+122,0,2,0,0,1,2,0,2,1,middle-aged adults,hypertension,high,hyper,0
+123,0,2,0,0,0,2,0,2,1,middle-aged adults,hypertension,high,hyper,0
+124,0,2,0,1,0,2,0,2,1,middle-aged adults,hypertension,underweight,hyper,0
+125,0,1,0,1,0,2,0,2,1,young adults,hypertension,borderline,hyper,1
+126,1,0,0,1,0,2,0,2,1,middle-aged adults,hypertension,borderline,infant normal,1
+128,0,2,0,0,0,1,0,2,1,middle-aged adults,hypertension,underweight,hyper,1
+129,0,1,0,0,1,2,1,2,1,older adults,hypertension,high,infant normal,1
+130,0,2,0,1,0,2,1,2,1,middle-aged adults,hypertension,borderline,hyper,0
+131,0,1,0,1,0,1,0,2,1,middle-aged adults,hypertension,high,hyper,0
+134,0,1,0,1,0,2,0,2,1,middle-aged adults,hypertension,high,hyper,0
+135,0,0,0,1,0,2,0,2,1,middle-aged adults,hypertension,high,hyper,0
+136,0,2,1,1,0,2,0,2,1,older adults,hypertension,underweight,normal,0
+137,1,1,1,0,0,2,0,2,1,older adults,hypertension,borderline,infant normal,0
+138,1,0,0,1,1,1,0,1,1,older adults,hypertension,borderline,infant normal,2
+139,1,0,0,1,1,1,1,3,1,older adults,hypertension,high,kid normal,1
+140,0,2,0,0,0,2,0,2,1,middle-aged adults,hypertension,high,hyper,1
+141,1,0,0,1,0,1,0,2,1,middle-aged adults,hypertension,high,hyper,2
+142,0,2,0,1,0,1,0,2,1,middle-aged adults,hypertension,borderline,hyper,0
+143,0,0,0,1,0,2,2,2,1,older adults,hypertension,borderline,infant normal,1
+144,0,2,0,2,0,1,0,2,1,older adults,hypertension,underweight,infant normal,2
+145,1,1,0,0,0,2,0,2,1,older adults,hypertension,high,infant normal,0
+146,0,2,0,1,0,1,1,2,1,middle-aged adults,hypertension,high,infant normal,1
+147,0,3,0,1,0,2,0,2,1,older adults,hypertension,high,hyper,1
+148,1,2,0,1,0,2,0,2,1,middle-aged adults,hypertension,borderline,hyper,0
+150,1,0,0,0,0,2,0,1,1,older adults,hypertension,borderline,infant normal,3
+151,0,0,0,1,0,1,0,2,1,older adults,hypertension,underweight,infant normal,2
+152,1,3,0,0,0,1,0,3,1,older adults,hypertension,borderline,hyper,1
+153,0,2,0,0,0,1,1,2,1,older adults,hypertension,high,hyper,0
+155,0,0,0,1,0,1,0,2,1,older adults,hypertension,underweight,infant normal,1
+157,1,1,0,1,0,2,0,2,1,young adults,hypertension,underweight,hyper,0
+158,1,1,0,1,0,1,4,3,1,older adults,hypertension,borderline,infant normal,1
+159,1,1,0,0,0,2,0,3,1,older adults,hypertension,borderline,hyper,0
+160,1,1,0,1,0,0,0,2,1,older adults,hypertension,high,hyper,0
+162,1,1,0,1,0,2,0,2,1,middle-aged adults,hypertension,underweight,hyper,0
+163,1,2,0,1,0,2,4,2,1,middle-aged adults,hypertension,underweight,hyper,0
+167,1,0,0,0,1,1,3,2,0,older adults,hypertension,high,kid normal,2
+168,1,0,0,0,1,1,2,3,0,older adults,hypertension,borderline,infant normal,3
+169,0,0,0,0,0,0,2,2,0,older adults,hypertension,high,hyper,4
+170,1,0,0,0,0,1,1,3,0,older adults,hypertension,high,infant normal,2
+171,1,0,1,0,1,0,0,3,0,middle-aged adults,hypertension,borderline,hyper,4
+172,1,2,1,0,1,1,1,1,0,older adults,hypertension,high,infant normal,1
+173,1,1,0,1,0,0,0,3,0,middle-aged adults,hypertension,borderline,hyper,1
+174,1,1,0,0,0,1,0,2,0,older adults,hypertension,high,hyper,2
+175,1,2,0,0,0,2,2,3,0,older adults,hypertension,borderline,hyper,4
+177,1,0,0,0,1,1,0,3,0,middle-aged adults,hypertension,underweight,infant normal,2
+178,1,0,1,1,1,2,2,3,0,older adults,hypertension,borderline,hyper,2
+179,1,2,0,1,0,2,0,2,0,older adults,hypertension,high,hyper,0
+180,1,0,0,0,1,1,0,3,0,middle-aged adults,hypertension,underweight,infant normal,3
+181,1,0,0,0,1,1,1,1,0,older adults,hypertension,high,infant normal,1
+182,1,0,0,1,1,1,1,3,0,middle-aged adults,hypertension,high,infant normal,2
+183,0,0,0,0,0,1,3,3,0,older adults,hypertension,borderline,infant normal,1
+184,0,0,0,0,0,2,0,2,0,older adults,hypertension,high,hyper,0
+185,1,2,0,0,0,1,1,3,0,older adults,hypertension,borderline,hyper,3
+186,1,0,0,0,0,1,0,3,0,middle-aged adults,hypertension,high,infant normal,3
+187,1,0,0,0,0,2,1,2,0,middle-aged adults,hypertension,high,hyper,0
+188,1,0,0,1,1,2,1,3,0,older adults,hypertension,high,infant normal,2
+189,1,0,0,0,1,1,1,3,0,middle-aged adults,hypertension,high,kid normal,3
+190,1,2,0,1,0,1,1,3,0,middle-aged adults,hypertension,borderline,hyper,1
+191,1,0,0,0,0,2,0,3,0,middle-aged adults,hypertension,underweight,hyper,0
+192,0,0,0,1,1,1,0,3,0,middle-aged adults,hypertension,high,infant normal,2
+193,1,0,0,0,1,1,3,3,0,older adults,hypertension,borderline,infant normal,3
+194,1,0,0,1,0,1,1,3,0,middle-aged adults,hypertension,underweight,infant normal,2
+195,1,0,0,0,1,1,2,3,0,older adults,hypertension,high,infant normal,3
+196,1,2,0,0,0,1,0,2,0,older adults,hypertension,underweight,hyper,3
+197,1,0,0,0,1,0,0,3,0,older adults,hypertension,high,infant normal,4
+198,1,2,0,1,0,1,0,2,0,middle-aged adults,hypertension,borderline,infant normal,4
+199,1,0,1,1,0,1,2,3,0,older adults,hypertension,high,hyper,1
+200,1,0,0,1,1,1,2,3,0,older adults,hypertension,high,normal,2
+201,1,0,0,0,0,2,2,1,0,older adults,hypertension,high,hyper,1
+202,1,0,0,0,0,2,1,2,0,middle-aged adults,hypertension,underweight,hyper,0
+203,1,0,0,0,1,1,1,3,0,older adults,hypertension,high,infant normal,3
+204,1,0,0,0,1,2,0,3,0,older adults,hypertension,high,infant normal,1
+205,1,2,1,0,1,1,0,3,0,older adults,hypertension,high,hyper,2
+206,0,0,0,0,0,0,3,3,0,older adults,hypertension,underweight,infant normal,7
+207,1,0,0,1,1,2,1,3,0,middle-aged adults,hypertension,high,hyper,0
+208,1,0,0,0,1,1,1,3,0,older adults,hypertension,high,infant normal,2
+209,0,0,0,0,0,1,2,3,0,older adults,hypertension,high,hyper,3
+210,1,2,0,1,0,1,3,3,0,middle-aged adults,hypertension,underweight,infant normal,2
+211,1,0,0,1,1,2,1,3,0,older adults,hypertension,underweight,hyper,0
+212,1,2,0,0,0,1,1,3,0,older adults,hypertension,borderline,hyper,1
+213,1,0,0,1,1,1,1,3,0,older adults,hypertension,high,infant normal,4
+214,1,0,0,1,0,1,0,3,0,middle-aged adults,hypertension,borderline,infant normal,2
+215,0,0,0,0,1,1,0,3,0,older adults,hypertension,high,infant normal,1
+216,1,0,1,0,1,1,1,2,0,older adults,hypertension,high,infant normal,2
+217,0,0,1,0,1,1,0,3,0,middle-aged adults,hypertension,high,infant normal,3
+218,0,2,0,1,0,1,1,3,0,older adults,hypertension,high,normal,2
+219,1,0,1,0,1,2,3,3,0,older adults,hypertension,high,infant normal,2
+220,1,0,0,0,0,1,1,3,0,older adults,hypertension,high,infant normal,3
+221,1,0,1,0,1,2,2,3,0,middle-aged adults,hypertension,high,hyper,0
+222,0,0,0,0,0,1,3,3,0,older adults,hypertension,high,hyper,4
+223,1,0,0,1,1,0,0,3,0,middle-aged adults,hypertension,borderline,infant normal,6
+224,1,3,1,0,0,1,1,2,0,older adults,hypertension,high,hyper,2
+225,0,0,1,0,1,0,2,3,0,older adults,hypertension,high,infant normal,4
+226,1,0,0,1,1,1,1,3,0,middle-aged adults,hypertension,high,infant normal,3
+227,1,0,0,1,1,0,0,3,0,older adults,hypertension,underweight,infant normal,3
+228,1,1,0,0,0,1,1,3,0,older adults,hypertension,high,kid normal,2
+229,1,0,0,1,1,1,0,3,0,young adults,hypertension,underweight,infant normal,2
+230,1,3,0,0,0,1,0,3,0,older adults,hypertension,high,hyper,1
+231,1,2,0,1,1,1,0,3,0,older adults,hypertension,high,infant normal,2
+232,1,2,0,1,0,2,0,2,0,middle-aged adults,hypertension,high,hyper,0
+233,1,0,1,0,0,1,3,3,0,older adults,hypertension,high,infant normal,1
+234,1,0,0,0,1,1,1,3,0,middle-aged adults,hypertension,high,infant normal,1
+235,1,0,0,0,1,0,1,2,0,older adults,hypertension,high,normal,3
+236,1,0,0,0,0,1,3,2,0,older adults,hypertension,high,kid normal,3
+237,1,0,0,1,1,2,0,3,0,middle-aged adults,hypertension,high,hyper,2
+238,1,0,0,0,0,2,2,3,0,older adults,hypertension,high,hyper,0
+239,1,0,0,0,0,1,2,3,0,older adults,hypertension,high,hyper,2
+240,1,0,0,0,1,2,3,2,0,older adults,hypertension,high,hyper,0
+241,1,0,0,0,1,2,0,3,0,young adults,hypertension,high,hyper,0
+242,1,2,0,1,1,1,1,3,0,older adults,hypertension,high,infant normal,3
+243,0,0,0,1,1,1,0,2,0,older adults,hypertension,high,infant normal,0
+244,1,0,0,0,0,1,2,1,0,older adults,hypertension,borderline,infant normal,2
+245,1,0,0,1,1,1,1,3,0,older adults,hypertension,high,normal,2
+246,1,0,0,0,1,1,1,1,0,older adults,hypertension,underweight,kid normal,3
+247,1,0,0,0,0,1,0,3,0,middle-aged adults,hypertension,high,hyper,1
+248,0,0,0,0,1,1,2,3,0,older adults,hypertension,high,hyper,2
+249,1,1,0,1,1,1,3,1,0,older adults,hypertension,high,infant normal,0
+250,1,1,0,0,0,2,1,3,0,middle-aged adults,hypertension,high,hyper,0
+251,1,2,0,0,0,1,3,3,0,older adults,hypertension,high,infant normal,2
+252,1,0,0,1,1,1,3,3,0,middle-aged adults,hypertension,high,infant normal,5
+253,1,0,1,0,1,1,4,3,0,middle-aged adults,hypertension,high,infant normal,1
+254,0,0,1,1,0,1,3,2,0,older adults,hypertension,high,kid normal,2
+255,1,0,0,0,1,1,2,2,0,older adults,hypertension,high,infant normal,1
+256,1,3,0,0,0,2,0,2,0,older adults,hypertension,high,infant normal,0
+257,1,0,0,0,1,1,3,3,0,middle-aged adults,hypertension,high,infant normal,0
+259,1,0,0,0,1,1,0,3,0,middle-aged adults,hypertension,borderline,infant normal,1
+260,0,0,0,1,1,1,0,2,0,older adults,hypertension,high,hyper,2
+261,1,3,0,1,1,1,0,3,0,middle-aged adults,hypertension,borderline,hyper,4
+262,0,0,1,1,1,1,2,3,0,older adults,hypertension,borderline,hyper,1
+263,1,0,0,1,0,2,1,2,0,middle-aged adults,hypertension,borderline,hyper,0
+264,1,0,0,1,1,1,2,3,0,middle-aged adults,hypertension,high,normal,2
+265,0,0,0,1,1,1,2,2,0,older adults,hypertension,high,hyper,2
+266,1,0,0,0,1,1,1,2,0,middle-aged adults,hypertension,borderline,kid normal,0
+267,1,0,0,0,1,2,1,2,0,older adults,hypertension,borderline,infant normal,1
+268,0,0,0,2,1,1,0,2,0,middle-aged adults,hypertension,high,infant normal,4
+269,1,2,0,0,0,2,3,2,0,middle-aged adults,hypertension,underweight,infant normal,1
+270,1,0,0,0,1,1,2,2,0,middle-aged adults,hypertension,high,infant normal,4
+271,1,0,1,0,1,0,0,3,0,older adults,hypertension,high,kid normal,2
+272,1,0,0,0,0,2,0,3,0,middle-aged adults,hypertension,high,infant normal,1
+273,1,3,0,1,0,1,2,2,0,older adults,hypertension,borderline,infant normal,3
+274,1,0,0,1,0,1,0,2,0,older adults,hypertension,borderline,normal,1
+275,1,0,0,1,0,2,1,3,0,older adults,hypertension,borderline,hyper,1
+276,1,0,0,0,1,1,1,2,0,middle-aged adults,hypertension,high,infant normal,1
+277,1,0,0,1,0,2,2,3,0,middle-aged adults,hypertension,borderline,hyper,1
+278,1,0,0,1,0,1,1,3,0,older adults,hypertension,borderline,kid normal,2
+279,1,1,0,1,0,2,0,3,0,older adults,hypertension,high,infant normal,1
+280,0,1,1,0,0,2,2,2,0,older adults,hypertension,high,hyper,0
+281,1,0,0,0,1,1,1,2,0,older adults,hypertension,underweight,infant normal,4
+282,1,0,0,1,1,1,0,1,0,middle-aged adults,hypertension,high,infant normal,2
+283,1,0,1,1,1,1,0,0,0,middle-aged adults,hypertension,borderline,hyper,1
+284,1,2,1,1,0,1,1,1,0,older adults,hypertension,borderline,infant normal,3
+285,1,0,0,1,0,2,0,3,0,middle-aged adults,hypertension,borderline,hyper,0
+286,1,0,0,0,1,2,1,3,0,older adults,hypertension,borderline,infant normal,2
+287,1,0,0,1,1,1,2,3,0,middle-aged adults,hypertension,high,infant normal,2
+288,1,3,0,1,0,2,2,2,0,older adults,hypertension,borderline,hyper,1
+289,1,1,0,0,0,2,1,2,0,older adults,hypertension,borderline,hyper,0
+290,1,0,0,1,1,1,1,3,0,older adults,hypertension,high,infant normal,3
+291,0,0,0,2,1,1,1,3,0,middle-aged adults,hypertension,borderline,infant normal,2
+292,1,0,0,1,0,2,1,3,0,older adults,hypertension,borderline,hyper,0
+293,1,0,0,2,0,0,3,1,0,older adults,hypertension,high,infant normal,5
+294,0,0,1,0,1,1,2,1,0,older adults,hypertension,borderline,infant normal,3
+296,1,2,0,0,0,1,0,3,0,older adults,hypertension,borderline,hyper,1
+298,1,0,0,1,1,0,0,1,0,middle-aged adults,hypertension,underweight,infant normal,3
+300,1,0,0,0,1,2,2,3,0,older adults,hypertension,underweight,infant normal,4
+302,0,0,0,1,1,1,0,2,0,older adults,hypertension,underweight,infant normal,0
+304,1,0,1,0,0,1,2,1,0,older adults,hypertension,underweight,normal,1
+306,0,0,0,1,1,1,0,3,0,older adults,hypertension,high,infant normal,1
+308,1,3,0,1,0,1,0,3,0,middle-aged adults,hypertension,high,infant normal,2
+310,1,0,1,1,0,1,2,3,0,older adults,hypertension,underweight,infant normal,4
+312,1,0,0,1,1,1,1,3,0,older adults,hypertension,underweight,infant normal,2
+314,0,1,0,0,0,1,1,2,0,older adults,hypertension,borderline,hyper,0
